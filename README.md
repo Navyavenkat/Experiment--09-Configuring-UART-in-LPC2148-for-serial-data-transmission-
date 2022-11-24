@@ -1,4 +1,4 @@
-\\\\\\\\\\\\\\\\\\\\\\\\\\# Experiment--09-Configuring-UART-in-LPC2148-for-serial-data-transmission-
+# Experiment--09-Configuring-UART-in-LPC2148-for-serial-data-transmission-
 
 Name :	
 Roll no 
@@ -79,7 +79,7 @@ int main (void)  {
 
 ### Output screen shots :
 
-
+![pm1](https://user-images.githubusercontent.com/94165327/203740223-7e00cfa5-08b7-47f5-9f8e-b4a1a77c5098.png)
 
 
 
